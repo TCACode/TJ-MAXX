@@ -1,0 +1,12 @@
+.jumbotron{
+
+Background-color:red;
+Background-image: url(https://codehs.com/uploads/daf23f9b3ec175e543084f0b9e206370);
+Background-size:100% 100%;
+}
+
+<img class="About" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf1Pf04Xf5lJTxUZWyByspKlFgzwQQiClRuQUQkUecMR68iVM%3Ahttps%3A%2F%2Fthekrazycouponlady.com%2Fwp-content%2Fuploads%2F2017%2F11%2Ftj-maxx-1580442048.jpg&usqp=CAU">
+
+.About{
+    Text-align:center;
+}
